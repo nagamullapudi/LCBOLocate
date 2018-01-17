@@ -1,15 +1,15 @@
 //
-//  LCBOLocateTests.swift
-//  LCBOLocateTests
+//  LCBO_ProjectTests.swift
+//  LCBO_ProjectTests
 //
-//  Created by Naga Sai Jyothi  on 2018-01-07.
-//  Copyright © 2018 Naga Sai Jyothi . All rights reserved.
+//  Created by Naga Sai Jyothi  on 2017-12-12.
+//  Copyright © 2017 Naga Sai Jyothi . All rights reserved.
 //
 
 import XCTest
-@testable import LCBOLocate
+@testable import LCBO_Project
 
-class LCBOLocateTests: XCTestCase {
+class LCBO_ProjectTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
